@@ -49,6 +49,6 @@ footer {
 
 .cabecalho{
     width: 130px;
-    float: right;
+    margin-left: 70%;
     position: absolute;
 }
